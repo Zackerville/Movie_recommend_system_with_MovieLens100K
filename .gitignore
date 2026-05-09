@@ -1,0 +1,33 @@
+# Tài liệu nội bộ làm việc với Claude — không đưa lên GitHub
+CLAUDE.md
+PLAN.md
+MAPPING.md
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data tải về (lớn) — KHÔNG commit, notebook tự download
+data/
+ml-100k/
+ml-100k.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# OS / build
+*.log
+*.tmp
