@@ -1,8 +1,6 @@
 # Bài Tập Lớn — Introduction to AI
 ## Hệ Gợi Ý Phim (Movie Recommendation System)
 
-> **Trạng thái:** Đã chốt đề tài, đang chuẩn bị triển khai. Đọc [CLAUDE.md](CLAUDE.md), [PLAN.md](PLAN.md), [MAPPING.md](MAPPING.md) để biết chi tiết.
-
 ## Thông tin môn học
 
 - **Tên môn:** Introduction to AI (Nhập môn Trí tuệ Nhân tạo)
@@ -39,17 +37,15 @@ btl/
 ├── notebooks/              # Colab notebook chính (entry point)
 ├── modules/                # Python modules
 │   ├── search/             # BFS, DFS, UCS, A*
-│   ├── csp/                # CSP / GA / hill climbing
-│   ├── kb/                 # Knowledge base, logic, IF-THEN
-│   ├── bayes/              # Bayes Network / Naive Bayes
-│   ├── ml/                 # Decision Tree / Perceptron / NB classifier
-│   └── utils/              # Data loading, EDA, plotting
+│   ├── csp/                # GA / optimization
+│   ├── kb/                 # Knowledge base, IF-THEN rules
+│   ├── bayes/              # Naive Bayes / Bayes Network
+│   ├── ml/                 # Decision Tree / Perceptron
+│   ├── utils/              # Data loading, EDA, plotting
+│   └── pipeline.py         # Pipeline tích hợp
 ├── features/               # File đặc trưng (.npy / .h5)
 ├── reports/                # Báo cáo PDF + hình
 ├── README.md               # File này
-├── CLAUDE.md               # Hướng dẫn cho Claude Code
-├── PLAN.md                 # Lộ trình chi tiết
-├── MAPPING.md              # Mapping chi tiết 5 thành phần A–E vào hệ gợi ý phim
 └── mlAssignments_MG.pdf    # File đặc tả gốc
 ```
 
