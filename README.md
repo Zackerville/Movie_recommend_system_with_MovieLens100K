@@ -3,7 +3,7 @@
 
 ## Thông tin môn học
 
-- **Tên môn:** Introduction to AI (Nhập môn Trí tuệ Nhân tạo)
+- **Tên môn:** CO3061 Introduction to AI (Nhập môn Trí tuệ Nhân tạo)
 - **Học kỳ:** HK251 — Năm học 2025–2026
 - **Trường:** Đại học Bách Khoa, ĐHQG-HCM — Bộ môn Khoa học Máy tính
 - **GVHD:** TS. Trương Vĩnh Lân
