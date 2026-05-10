@@ -4,7 +4,7 @@
 ## Thông tin môn học
 
 - **Tên môn:** Introduction to AI (Nhập môn Trí tuệ Nhân tạo)
-- **Học kỳ:** HK2 — Năm học 2025–2026
+- **Học kỳ:** HK251 — Năm học 2025–2026
 - **Trường:** Đại học Bách Khoa, ĐHQG-HCM — Bộ môn Khoa học Máy tính
 - **GVHD:** TS. Trương Vĩnh Lân
 - **File đặc tả:** [mlAssignments_MG.pdf](mlAssignments_MG.pdf) (v1.1, 13/02/2026)
@@ -75,5 +75,5 @@ btl/
 
 - 🔗 **Colab Notebook:** [main.ipynb](https://colab.research.google.com/github/Zackerville/Movie_recommend_system_with_MovieLens100K/blob/main/notebooks/main.ipynb)
 - 💻 **GitHub:** [Movie_recommend_system_with_MovieLens100K](https://github.com/Zackerville/Movie_recommend_system_with_MovieLens100K)
-- 📄 **Báo cáo PDF:** *(sẽ cập nhật sau)*
+- 📄 **Báo cáo PDF:** [report.pdf](https://github.com/Zackerville/Movie_recommend_system_with_MovieLens100K/blob/main/reports/report.pdf)
 
